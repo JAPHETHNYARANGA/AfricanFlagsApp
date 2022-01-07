@@ -131,6 +131,7 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
             }
         }
 
+
     }
 
     private fun answerView(answer:Int, drawableView:Int){
